@@ -22,7 +22,7 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 body {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #edeced 0%, #af3492 100%);
     display: flex;
     justify-content: center;
     align-items: center;
