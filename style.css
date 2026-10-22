@@ -15,3 +15,19 @@
     --shadow: 0 8px 28px rgba(73, 51, 38, 0.055);
 }
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: var(--cream);
+    color: var(--text);
+    min-height: 100vh;
+}
